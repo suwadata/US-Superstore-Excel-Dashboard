@@ -81,6 +81,6 @@ Skills:
 - Python
 
   
-- SQL
+  
 - Power BI
 - Python
